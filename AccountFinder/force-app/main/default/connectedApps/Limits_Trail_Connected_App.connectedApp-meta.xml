@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>gguilherme@salesforce.com</contactEmail>
+    <label>Limits Trail Connected App</label>
+    <startUrl>https://trailhead.salesforce.com</startUrl>
+</ConnectedApp>
